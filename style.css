@@ -1,0 +1,191 @@
+/* @media (min-width: 320px) { */
+    /* Styles for samsungs and larger screens */
+}
+
+@media (min-width: 768px) {
+    /* Styles for tablets and larger screens */
+}
+
+@media (min-width: 992px) {
+    /* Styles for desktops and larger screens */
+}
+
+
+
+
+
+.COMING{
+  font-size:3rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #333;
+  margin-top: 5%;
+
+}
+
+.from{
+  color: rgb(216, 136, 6);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 2rem;
+  
+  
+  
+}
+
+.Building{
+  font-size: 2rem;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding: 1rem;
+  
+  
+}
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-size: 1rem;
+ 
+}
+
+
+
+#countdown {
+  font-size: 3rem;
+  /* margin-top: 20rem; */
+  color: rgb(189, 193, 193);
+}
+
+#countdown div {
+  display: inline-block;
+  /* margin-right: 10px; */
+}
+
+#countdown span {
+  display: inline-block;
+  font-size: 2rem;
+  padding: 5px;
+  margin: 5px;
+ 
+}
+
+.text {
+  /* background-color: #090909; */
+  font-size: 1.5rem;
+  color: #fdfcfc;
+  
+}
+
+#countdown {
+color:rgb(250, 189, 6);
+font-family:'Franklin Gothic Medium','Arial Narrow', Arial, sans-serif;
+font-size: 1rem ;
+border-radius: 30px;
+/* padding: 40px (001); */
+margin: 5%;
+/* margin-bottom: 10%; */
+background-color:#070707;
+
+
+
+
+
+
+}
+
+
+
+.links li a img {
+  transition: transform 0.1s;
+}
+
+.links li a:hover img {
+  transform: scale(3.2);
+  
+}
+
+/*====================== test line row================= */
+
+.links {
+  text-align: center;
+  padding: 2px;
+  margin: 5px;
+}
+
+.links ul {
+  list-style-type: none;
+  
+}
+
+.links li {
+  display: inline-block;
+  /* margin-right: 0px; */
+}
+/* 
+.links li:last-child {
+  margin-right: 0;
+} */
+
+
+
+
+
+
+/* =================form===================== */
+
+
+.form{
+  margin-bottom: 20%;
+ background-color: rgb(237, 234, 229);
+ padding: 3%;
+ margin: 5%;
+
+}
+
+.mb-3{
+  color: rgb(6, 6, 5);
+  font-size: large;
+  padding: 5px; 
+  padding-left: 20%;
+  padding-right: 20%;
+
+  /* ===========nav-bar==================== */
+  
+.nav{
+padding-right: 20%;
+}
+ 
+  
+  
+  
+  
+  
+  
+
+}
+
+
+.address{
+  color: rgb(199, 33, 4)
+}
+
+/* .button{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: rgb(14, 10, 10);
+  background-color: #ea9b08;
+  font-size: x-large;
+  border-radius: 4px;
+  cursor:pointer;
+  border:none;
+  box-shadow:0px 2px 4px rgba(0,0,0, 0.2); 
+  
+} */
+
+
+
+
+
+
+
+
+
